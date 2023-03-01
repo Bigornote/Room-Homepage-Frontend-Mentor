@@ -159,7 +159,7 @@ a {
   background-color: var(--black);
   position: absolute;
   right: 30%;
-  top: 56vh;
+  top: calc(65vh - 75px);
   z-index: 10;
 }
 .btn-container .btn {
